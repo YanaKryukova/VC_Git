@@ -10,7 +10,7 @@
 3. Работа с системой Git
 4. Начальное знание языка Swift
 
-![фото](/img/photo.png)
+![](https://raw.githubusercontent.com/YanaKryukova/VC_Git/48290d4e2a5a46729953bfb24edcc255ce04ba35/img%3A/photo.png)
 
 
 
